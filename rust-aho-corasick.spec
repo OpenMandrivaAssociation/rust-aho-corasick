@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        0.7.15
-Release:        2
+Release:        3
 Summary:        Fast multiple substring searching
 
 # Upstream license specification: Unlicense/MIT
